@@ -1,0 +1,48 @@
+{
+  "location": {
+    "name": "Boston",
+    "region": "Massachusetts",
+    "country": "United States of America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "tz_id": "America/New_York",
+    "localtime_epoch": 1722304405,
+    "localtime": "2024-07-29 21:53"
+  },
+  "current": {
+    "last_updated_epoch": 1722303900,
+    "last_updated": "2024-07-29 21:45",
+    "temp_c": 18.6,
+    "temp_f": 65.5,
+    "is_day": 0,
+    "condition": {
+      "text": "Clear",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+      "code": 1000
+    },
+    "wind_mph": 3.4,
+    "wind_kph": 5.4,
+    "wind_degree": 228,
+    "wind_dir": "SW",
+    "pressure_mb": 1015,
+    "pressure_in": 29.98,
+    "precip_mm": 0,
+    "precip_in": 0,
+    "humidity": 87,
+    "cloud": 21,
+    "feelslike_c": 18.6,
+    "feelslike_f": 65.5,
+    "windchill_c": 18.6,
+    "windchill_f": 65.5,
+    "heatindex_c": 18.8,
+    "heatindex_f": 65.8,
+    "dewpoint_c": 16.1,
+    "dewpoint_f": 60.9,
+    "vis_km": 10,
+    "vis_miles": 6,
+    "uv": 1,
+    "gust_mph": 6.9,
+    "gust_kph": 11.2
+  }
+}
+
